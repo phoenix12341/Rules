@@ -1,0 +1,6 @@
+USER-AGENT,InstantVideo.US*,Amazon
+USER-AGENT,Prime%20Video*,Amazon
+HOST-SUFFIX,aiv-cdn.net,Amazon
+HOST-SUFFIX,amazonaws.com,Amazon
+HOST-SUFFIX,amazonvideo.com,Amazon
+HOST-SUFFIX,llnwd.net,Amazon
